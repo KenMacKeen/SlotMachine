@@ -1,2 +1,2 @@
 # SlotMachine
-Python project simulating a slot machine
+Python project simulating a slot machine.
